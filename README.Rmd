@@ -1,0 +1,10 @@
+---
+title: My first git repo
+author: Naziza Bhuiyan
+output: github_document
+---
+
+# My first commit
+
+Here is some text that constitutes my first commit in my first repo.
+
